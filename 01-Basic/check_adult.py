@@ -1,4 +1,5 @@
 # welcome to Nikhil adult determined.py file.
+#Beginner phase of code.
 print("check you are adult or not")
 a=input("Enter your Name ")
 b=int(input("enter your age "))
