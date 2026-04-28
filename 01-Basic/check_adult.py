@@ -1,5 +1,4 @@
-#Beginner phase of code.
-
+# Beginner phase of code.
 # welcome to Nikhil adult determined.py file.
 
 print("check you are adult or not")
