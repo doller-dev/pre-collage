@@ -25,7 +25,7 @@ print(type(a1))
 b1="NIKHILKUMARRRRRRRRRRRRRR"
 print(type(b1))
 
-c1="nikhillllllllllllllllllllllKumarrrrrrrrrrrrrrrrrrrrrrrrrr"
+c1="nikhillllllllllllllllllllllKumarrrrrrrrrrrrrrrrrrrrrrrrr"
 print(type(c1))
 
 
