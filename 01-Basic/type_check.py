@@ -10,13 +10,11 @@ print(type(b))
 
 
 
-
 c=15.6
 print(type(c))
 
 d=123.56
 print(type(d))
-
 
 
 
