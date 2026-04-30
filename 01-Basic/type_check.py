@@ -11,13 +11,11 @@ print(type(b))
 
 
 
-
 c=15.6
 print(type(c))
 
 d=123.56
 print(type(d))
-
 
 
 
@@ -31,7 +29,6 @@ print(type(b1))
 
 c1="nikhillllllllllllllllllllllKumarrrrrrrrrrrrrrrrrrrrrrrrrr"
 print(type(c1))
-
 
 
 
