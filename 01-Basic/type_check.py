@@ -1,4 +1,4 @@
-# check Date type of each like int,float, string, bool ect
+# check Date type of each like int,float, string, bool etc
 
 
 a=10
