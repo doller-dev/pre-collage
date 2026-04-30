@@ -22,10 +22,10 @@ print(type(d))
 a1="Nikhil" 
 print(type(a1))
 
-b1="NIKHILKUMARRRRRRRRRRRRRR"
+b1="NIKHILKUMARRRRRRRRRRRRRRRRRRRR"
 print(type(b1))
 
-c1="nikhillllllllllllllllllllllKumarrrrrrrrrrrrrrrrrrrrrrrrr"
+c1="nikhillllllllllllllllllllllKumarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"
 print(type(c1))
 
 
