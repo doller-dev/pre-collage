@@ -1,4 +1,6 @@
-# using triple quotes to write the code
+# using triple quotes to write the code.
+
+
 _a = int(input("Enter your First Number: "))
 _b = int(input("""Enter 
 your second
