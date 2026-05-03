@@ -3,7 +3,7 @@
 print('enter your two number with common such as 3,4  65,34 ') 
 a,b = map(int,input("Enter Two number ").split(","))
 c=a+b
-print("additon of Two No. is " ,c)
+print("Additon of Two No. is " ,c)
 
 # for float value change int to float like that
 #  a,b = map(float,input("Enter two number ").split(","))
