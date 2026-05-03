@@ -9,7 +9,7 @@ print("Additon of Two No. is " ,c)
 #  a,b = map(float,input("Enter two number ").split(","))
 
 d=a-b
-print("substraction of Two No." ,d)
+print("Substraction of Two No." ,d)
 
 print(type(c))
 print(type(d))
