@@ -55,7 +55,7 @@ ba= 364646366666643636/3634
 print(ba)
 
 
-# for floor divison(//)
+# For floor divison(//)
 
 b= 15/2
 print(b)
