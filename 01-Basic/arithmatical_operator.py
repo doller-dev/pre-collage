@@ -1,7 +1,7 @@
 # Write a code using all basic Arthmatical operator.
-# Auther :- (Code Name: "Dollar")                                       Date:- 04/05/2026
+# Auther :- (Code Name: "Dollar")                                        Date:- 04/05/2026
 
-# for additon(+)
+# For additon(+)
 print (50+49)
 print("Nikhil + Kumar")
 # print("Data" + 10")               #it show errors.
