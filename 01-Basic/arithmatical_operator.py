@@ -4,13 +4,13 @@
 # for additon(+)
 print (50+49)
 print("Nikhil + Kumar")
-# print("Data" + 10")  it show errors
+# print("Data" + 10")               #it show errors.
 
 
 # For Substraction(-)
 print(78-34)
 print("Nikhil - Kumar")
-print ("Nikhil - 10")  # it does'nt show error
+print ("Nikhil - 10")              # it does'nt show error.
 
 
 # For Multiplication(*)
@@ -25,6 +25,7 @@ print( 35**2)
 print(25 ** 3)
 print(25 ** 4)
 print(25 **25)
+
 
 # For mod(%) used for finding remainder
 a=15%2
