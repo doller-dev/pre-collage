@@ -1,5 +1,5 @@
 # Write a code using all basic Arthmatical operator.
-# Auther :- (Code Name: "Dollar")                                       Date:- 03/05/2026
+# Auther :- (Code Name: "Dollar")                                       Date:- 04/05/2026
 
 # for additon(+)
 print (50+49)
