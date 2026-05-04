@@ -27,7 +27,7 @@ print(25 ** 4)
 print(25 **25)
 
 
-# For mod(%) used for finding remainder
+# For mod(%) used for finding remainder.
 a=15%2
 print(a)
 
