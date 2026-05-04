@@ -4,7 +4,7 @@
 # For additon(+)
 print (50+49)
 print("Nikhil + Kumar")
-# print("Data" + 10")               #it show errors.
+# print("Nikhil" + 10")               #it show errors.
 
 
 # For Substraction(-)
