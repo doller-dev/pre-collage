@@ -1,4 +1,4 @@
-# Write a code using all basic Arthmatical operator.
+# Write a code using all basic Arithmetical operator.
 # Auther :- (Code Name: "Dollar")                                        Date:- 04/05/2026
 
 # For additon(+)
