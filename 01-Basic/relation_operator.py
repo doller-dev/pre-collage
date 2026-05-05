@@ -11,7 +11,7 @@ print("  End of greator than")
 
 
 # For less-than(<)
-b1= 3856<34
+b1= 38556<345
 print(b1)
 b2= 443<3536
 print(b2)
@@ -46,7 +46,7 @@ print(23==35)
 
 E1= 265==354
 print(E1)
-E2= 55555==55555
+E2= 555555==555555
 print(E2)
 print("  End of equal to equal to")
 
