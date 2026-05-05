@@ -93,7 +93,7 @@ bbb= 63
 ccc= 1
 print(aaa<bbb==ccc)
 print(aaa<bbb!=ccc)
-print(aaa>bbb==cccc)
+print(aaa>bbb==ccc)
 print(aaa>bbb!=ccc)
 print("End of mixing aaa,bbb,ccc")
 
