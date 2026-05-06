@@ -5,7 +5,7 @@ a,b = map(int,input("Enter Two number ").split(","))
 c=a+b
 print("Additon of Two No. is " ,c)
 
-# for float value change int to float like that
+# for float value change int to float like that-
 #  a,b = map(float,input("Enter two number ").split(","))
 
 d=a-b
