@@ -7,6 +7,6 @@ Age = int(input("Enter your age "))
 
 Adult= Age>18
 
-str="WELCOME TO THE SMALL CODE OF DOLLER WORLD \n Your Name is {}\n Your current Roll No. is {}\n Ypur current age is {}\n Your are become adult {}"
+str="WELCOME TO THE SMALL CODE OF WORLD \n Your Name is {}\n Your current Roll No. is {}\n Ypur current age is {}\n Your are become adult {}"
 print(str.format(Name, Roll_NO, Age, Adult))
 
