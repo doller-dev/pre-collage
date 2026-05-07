@@ -1,5 +1,5 @@
 # # write a code with basic Relational operator.
-# Auther:-                         Date:-
+# Auther:-(Code Name:- "Doller")                       Date:- 
 
 
 # For Greator than(>)
