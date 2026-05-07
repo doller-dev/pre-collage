@@ -1,5 +1,5 @@
 # # write a code with basic Relational operator.
-# Auther:- (Code Name:- "Doller")                         Date:- 05/05/2026
+# Auther:-                         Date:-
 
 
 # For Greator than(>)
@@ -11,7 +11,7 @@ print("  End of greator than")
 
 
 # For less-than(<)
-b1= 38556<345
+b1= 3856<34
 print(b1)
 b2= 443<3536
 print(b2)
@@ -46,7 +46,7 @@ print(23==35)
 
 E1= 265==354
 print(E1)
-E2= 555555==555555
+E2= 55555==55555
 print(E2)
 print("  End of equal to equal to")
 
@@ -93,7 +93,7 @@ bbb= 63
 ccc= 1
 print(aaa<bbb==ccc)
 print(aaa<bbb!=ccc)
-print(aaa>bbb==ccc)
+print(aaa>bbb==cccc)
 print(aaa>bbb!=ccc)
 print("End of mixing aaa,bbb,ccc")
 
