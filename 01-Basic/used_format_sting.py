@@ -10,4 +10,4 @@ print("Additon of %d and %d is %d" %(a,b,c))
 
 d=a-b
 print("substraction of %i nad %i is %i" %(a,b,d))
-print("valve of %d is" %a)
+print("valve of %d is " %a)
