@@ -1,5 +1,5 @@
 # write a code with format string.
-Author :- Code Name: "Doller"                        
+#  Author :- Code Name: "Doller"             Date:- 07-may-2026                       
 
 a=int(input("Enter your first Number "))
 b=int(input("Enter your second Number "))
