@@ -2,7 +2,7 @@
 # Author:- (Code Name: "Doller")                                  Date:- 08-may-2026
 
 
-Number= int(input("enter your Number"))
+Number= int(input("Enter your Number"))
 # print("Hellow") if Number>=0 else print(" Bye")
 
 print("Welcome") if Number>=0 else print("try next time")
