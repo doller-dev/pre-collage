@@ -10,8 +10,6 @@ print("Device unlock") if Number==100 else print("best of luck for next time")
 
 
 
-00
-
 
 
 
