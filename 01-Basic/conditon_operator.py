@@ -1,4 +1,4 @@
-# write a code with conditon operator.
+# Write a code with conditon operator.
 # Author:- (Code Name: "Doller")                                  Date:- 08-may-2026
 
 
