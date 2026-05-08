@@ -1,5 +1,5 @@
 # write a code with conditon operator.
-# Author:- (Code Name:         )                                  Date:
+# Author:- (Code Name: "Doller")                                  Date:- 08-may-2026
 
 
 Number= int(input("enter your Number"))
