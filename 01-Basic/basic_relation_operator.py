@@ -1,4 +1,4 @@
-# # write a code with basic Relational operator.
+ # write a code with basic Relational operator.
 # Auther:-(Code Name:- "Doller")                       Date:- 
 
 
