@@ -1,4 +1,4 @@
-#practice session 
+#Practice session 
 # a=int(inut("enter your first NUmber"))
 # b=int(input("enter your second Number"))
 
