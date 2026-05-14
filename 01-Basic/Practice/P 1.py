@@ -16,4 +16,4 @@ c=b*b
 print("Square of second number is : ",c)
 
 d=a-b
-print("subtraction of two numbers is: ",d)
+print("subtraction of two(first - second) numbers is: ",d)
